@@ -1,0 +1,15 @@
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\bin\Debug\net8.0\Open_Close_principle.exe
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\bin\Debug\net8.0\Open_Close_principle.deps.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\bin\Debug\net8.0\Open_Close_principle.runtimeconfig.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\bin\Debug\net8.0\Open_Close_principle.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\bin\Debug\net8.0\Open_Close_principle.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\obj\Debug\net8.0\Open_Close_principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\obj\Debug\net8.0\Open_Close_principle.AssemblyInfoInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\obj\Debug\net8.0\Open_Close_principle.AssemblyInfo.cs
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\obj\Debug\net8.0\Open_Close_principle.csproj.CoreCompileInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\obj\Debug\net8.0\Open_Close_principle.sourcelink.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\obj\Debug\net8.0\Open_Close_principle.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\obj\Debug\net8.0\refint\Open_Close_principle.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\obj\Debug\net8.0\Open_Close_principle.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\obj\Debug\net8.0\Open_Close_principle.genruntimeconfig.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Open_Close_principle\obj\Debug\net8.0\ref\Open_Close_principle.dll
