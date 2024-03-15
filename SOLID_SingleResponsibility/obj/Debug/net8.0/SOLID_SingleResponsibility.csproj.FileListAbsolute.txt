@@ -1,0 +1,14 @@
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\obj\Debug\net8.0\SOLID_SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\obj\Debug\net8.0\SOLID_SingleResponsibility.AssemblyInfoInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\obj\Debug\net8.0\SOLID_SingleResponsibility.AssemblyInfo.cs
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\obj\Debug\net8.0\SOLID_SingleResponsibility.csproj.CoreCompileInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\bin\Debug\net8.0\SOLID_SingleResponsibility.exe
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\bin\Debug\net8.0\SOLID_SingleResponsibility.deps.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\bin\Debug\net8.0\SOLID_SingleResponsibility.runtimeconfig.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\bin\Debug\net8.0\SOLID_SingleResponsibility.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\bin\Debug\net8.0\SOLID_SingleResponsibility.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\obj\Debug\net8.0\SOLID_SingleResponsibility.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\obj\Debug\net8.0\refint\SOLID_SingleResponsibility.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\obj\Debug\net8.0\SOLID_SingleResponsibility.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\obj\Debug\net8.0\SOLID_SingleResponsibility.genruntimeconfig.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_SingleResponsibility\obj\Debug\net8.0\ref\SOLID_SingleResponsibility.dll
