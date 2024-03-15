@@ -1,3 +1,3 @@
-Open/Closed Principle (OCP):
-	Software entities (classes, modules, functions, etc.) should be open for extension but closed for modification.
-	This principle encourages designing systems in a way that allows new functionality to be added through extension, rather than 	modifying existing code. By adhering to this principle, existing code remains stable while new features can be introduced without 	altering the existing codebase.
+Single Responsibility Principle (SRP):
+	A class should have only one reason to change, meaning it should have only one responsibility.
+	This principle advocates for designing classes that have a single purpose or responsibility. It promotes cohesion and reduces 	coupling, making classes easier to understand, maintain, and extend.
