@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Singleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9187B-63AF-4462-B356-8EE7936310EF}|DP_Singleton.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9187B-63AF-4462-B356-8EE7936310EF}|DP_Singleton.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9187B-63AF-4462-B356-8EE7936310EF}|DP_Singleton.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_singleton\\currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9187B-63AF-4462-B356-8EE7936310EF}|DP_Singleton.csproj|solutionrelative:currencyconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D9187B-63AF-4462-B356-8EE7936310EF}|DP_Singleton.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_singleton\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D9187B-63AF-4462-B356-8EE7936310EF}|DP_Singleton.csproj|solutionrelative:exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 664,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 114,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyConverter.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Singleton\\CurrencyConverter.cs",
+              "RelativeDocumentMoniker": "CurrencyConverter.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Singleton\\CurrencyConverter.cs",
+              "RelativeToolTip": "CurrencyConverter.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:33:50.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExchangeRate.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Singleton\\ExchangeRate.cs",
+              "RelativeDocumentMoniker": "ExchangeRate.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Singleton\\ExchangeRate.cs",
+              "RelativeToolTip": "ExchangeRate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:31:02.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Singleton\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Singleton\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIA9wBEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:30:18.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
