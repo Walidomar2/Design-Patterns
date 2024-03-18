@@ -1,0 +1,15 @@
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\bin\Debug\net8.0\SOLID_Interface segregation.exe
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\bin\Debug\net8.0\SOLID_Interface segregation.deps.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\bin\Debug\net8.0\SOLID_Interface segregation.runtimeconfig.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\bin\Debug\net8.0\SOLID_Interface segregation.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\bin\Debug\net8.0\SOLID_Interface segregation.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\obj\Debug\net8.0\SOLID_Interface segregation.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\obj\Debug\net8.0\SOLID_Interface segregation.AssemblyInfoInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\obj\Debug\net8.0\SOLID_Interface segregation.AssemblyInfo.cs
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\obj\Debug\net8.0\SOLID_Interface segregation.csproj.CoreCompileInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\obj\Debug\net8.0\SOLID_Interface segregation.sourcelink.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\obj\Debug\net8.0\SOLID_Interface segregation.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\obj\Debug\net8.0\refint\SOLID_Interface segregation.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\obj\Debug\net8.0\SOLID_Interface segregation.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\obj\Debug\net8.0\SOLID_Interface segregation.genruntimeconfig.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Interface segregation\obj\Debug\net8.0\ref\SOLID_Interface segregation.dll

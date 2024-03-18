@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SOLID_Interface segregation/1.0.0": {
+        "runtime": {
+          "SOLID_Interface segregation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLID_Interface segregation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
