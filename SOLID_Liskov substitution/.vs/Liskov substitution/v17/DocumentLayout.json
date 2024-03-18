@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\Liskov substitution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CD271-065F-47BE-8A1D-94CD05E24B2A}|Liskov substitution.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\liskov substitution\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CD271-065F-47BE-8A1D-94CD05E24B2A}|Liskov substitution.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7CD271-065F-47BE-8A1D-94CD05E24B2A}|Liskov substitution.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\liskov substitution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7CD271-065F-47BE-8A1D-94CD05E24B2A}|Liskov substitution.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 664,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 114,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\Liskov substitution\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\Liskov substitution\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:30:58.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\Liskov substitution\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\Liskov substitution\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T14:22:22.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\obj\Debug\net8.0\Liskov substitution.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\obj\Debug\net8.0\Liskov substitution.AssemblyInfoInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\obj\Debug\net8.0\Liskov substitution.AssemblyInfo.cs
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\obj\Debug\net8.0\Liskov substitution.csproj.CoreCompileInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\obj\Debug\net8.0\Liskov substitution.sourcelink.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\bin\Debug\net8.0\Liskov substitution.exe
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\bin\Debug\net8.0\Liskov substitution.deps.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\bin\Debug\net8.0\Liskov substitution.runtimeconfig.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\bin\Debug\net8.0\Liskov substitution.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\bin\Debug\net8.0\Liskov substitution.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\obj\Debug\net8.0\Liskov substitution.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\obj\Debug\net8.0\refint\Liskov substitution.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\obj\Debug\net8.0\Liskov substitution.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\obj\Debug\net8.0\Liskov substitution.genruntimeconfig.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\Liskov substitution\obj\Debug\net8.0\ref\Liskov substitution.dll

@@ -1,0 +1,3 @@
+Liskov Substitution Principle (LSP):
+	Objects of a superclass should be replaceable with objects of its subclasses without affecting the correctness of the program.
+	This principle ensures that subclasses adhere to the contracts established by their parent classes. In other words, derived 	classes should be substitutable for their base classes without altering the correctness of the program. Violating this principle 	can lead to unexpected behavior and code that is difficult to maintain.
