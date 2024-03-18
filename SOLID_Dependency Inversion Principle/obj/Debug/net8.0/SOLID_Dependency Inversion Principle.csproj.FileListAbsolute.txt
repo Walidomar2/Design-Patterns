@@ -1,0 +1,15 @@
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\bin\Debug\net8.0\SOLID_Dependency Inversion Principle.exe
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\bin\Debug\net8.0\SOLID_Dependency Inversion Principle.deps.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\bin\Debug\net8.0\SOLID_Dependency Inversion Principle.runtimeconfig.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\bin\Debug\net8.0\SOLID_Dependency Inversion Principle.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\bin\Debug\net8.0\SOLID_Dependency Inversion Principle.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\obj\Debug\net8.0\SOLID_Dependency Inversion Principle.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\obj\Debug\net8.0\SOLID_Dependency Inversion Principle.AssemblyInfoInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\obj\Debug\net8.0\SOLID_Dependency Inversion Principle.AssemblyInfo.cs
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\obj\Debug\net8.0\SOLID_Dependency Inversion Principle.csproj.CoreCompileInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\obj\Debug\net8.0\SOLID_Dependency Inversion Principle.sourcelink.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\obj\Debug\net8.0\SOLID_Dependency Inversion Principle.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\obj\Debug\net8.0\refint\SOLID_Dependency Inversion Principle.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\obj\Debug\net8.0\SOLID_Dependency Inversion Principle.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\obj\Debug\net8.0\SOLID_Dependency Inversion Principle.genruntimeconfig.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\SOLID_Dependency Inversion Principle\obj\Debug\net8.0\ref\SOLID_Dependency Inversion Principle.dll

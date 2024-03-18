@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\SOLID_Dependency Inversion Principle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC53477-E169-4974-85D3-90F1EF84DE7A}|SOLID_Dependency Inversion Principle.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\solid_dependency inversion principle\\logging_better.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC53477-E169-4974-85D3-90F1EF84DE7A}|SOLID_Dependency Inversion Principle.csproj|solutionrelative:logging_better.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC53477-E169-4974-85D3-90F1EF84DE7A}|SOLID_Dependency Inversion Principle.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\solid_dependency inversion principle\\logging_bad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC53477-E169-4974-85D3-90F1EF84DE7A}|SOLID_Dependency Inversion Principle.csproj|solutionrelative:logging_bad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC53477-E169-4974-85D3-90F1EF84DE7A}|SOLID_Dependency Inversion Principle.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\solid_dependency inversion principle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC53477-E169-4974-85D3-90F1EF84DE7A}|SOLID_Dependency Inversion Principle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 664,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 114,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logging_Better.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\SOLID_Dependency Inversion Principle\\Logging_Better.cs",
+              "RelativeDocumentMoniker": "Logging_Better.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\SOLID_Dependency Inversion Principle\\Logging_Better.cs",
+              "RelativeToolTip": "Logging_Better.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:28:31.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logging_Bad.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\SOLID_Dependency Inversion Principle\\Logging_Bad.cs",
+              "RelativeDocumentMoniker": "Logging_Bad.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\SOLID_Dependency Inversion Principle\\Logging_Bad.cs",
+              "RelativeToolTip": "Logging_Bad.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:27:35.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\SOLID_Dependency Inversion Principle\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\SOLID_Dependency Inversion Principle\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T15:26:28.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
