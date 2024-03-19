@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Adaptor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38DBE944-DA23-481B-9FA5-B20745CC7B15}|DP_Adaptor.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_adaptor\\employeeadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DBE944-DA23-481B-9FA5-B20745CC7B15}|DP_Adaptor.csproj|solutionrelative:employeeadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DBE944-DA23-481B-9FA5-B20745CC7B15}|DP_Adaptor.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_adaptor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DBE944-DA23-481B-9FA5-B20745CC7B15}|DP_Adaptor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DBE944-DA23-481B-9FA5-B20745CC7B15}|DP_Adaptor.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_adaptor\\thirdpartybillingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DBE944-DA23-481B-9FA5-B20745CC7B15}|DP_Adaptor.csproj|solutionrelative:thirdpartybillingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DBE944-DA23-481B-9FA5-B20745CC7B15}|DP_Adaptor.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_adaptor\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DBE944-DA23-481B-9FA5-B20745CC7B15}|DP_Adaptor.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DBE944-DA23-481B-9FA5-B20745CC7B15}|DP_Adaptor.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_adaptor\\itarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DBE944-DA23-481B-9FA5-B20745CC7B15}|DP_Adaptor.csproj|solutionrelative:itarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 664,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 114,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeAdapter.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Adaptor\\EmployeeAdapter.cs",
+              "RelativeDocumentMoniker": "EmployeeAdapter.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Adaptor\\EmployeeAdapter.cs",
+              "RelativeToolTip": "EmployeeAdapter.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvxwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:34:52.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITarget.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Adaptor\\ITarget.cs",
+              "RelativeDocumentMoniker": "ITarget.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Adaptor\\ITarget.cs",
+              "RelativeToolTip": "ITarget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:34:23.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThirdPartyBillingSystem.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Adaptor\\ThirdPartyBillingSystem.cs",
+              "RelativeDocumentMoniker": "ThirdPartyBillingSystem.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Adaptor\\ThirdPartyBillingSystem.cs",
+              "RelativeToolTip": "ThirdPartyBillingSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:33:34.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Adaptor\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Adaptor\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:32:57.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Adaptor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Adaptor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T13:17:08.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

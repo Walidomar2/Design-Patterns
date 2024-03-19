@@ -1,0 +1,15 @@
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\bin\Debug\net8.0\DP_Adaptor.exe
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\bin\Debug\net8.0\DP_Adaptor.deps.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\bin\Debug\net8.0\DP_Adaptor.runtimeconfig.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\bin\Debug\net8.0\DP_Adaptor.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\bin\Debug\net8.0\DP_Adaptor.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\obj\Debug\net8.0\DP_Adaptor.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\obj\Debug\net8.0\DP_Adaptor.AssemblyInfoInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\obj\Debug\net8.0\DP_Adaptor.AssemblyInfo.cs
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\obj\Debug\net8.0\DP_Adaptor.csproj.CoreCompileInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\obj\Debug\net8.0\DP_Adaptor.sourcelink.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\obj\Debug\net8.0\DP_Adaptor.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\obj\Debug\net8.0\refint\DP_Adaptor.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\obj\Debug\net8.0\DP_Adaptor.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\obj\Debug\net8.0\DP_Adaptor.genruntimeconfig.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Adaptor\obj\Debug\net8.0\ref\DP_Adaptor.dll
