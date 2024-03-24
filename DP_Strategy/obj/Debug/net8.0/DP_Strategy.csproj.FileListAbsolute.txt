@@ -1,0 +1,15 @@
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\obj\Debug\net8.0\DP_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\obj\Debug\net8.0\DP_Strategy.AssemblyInfoInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\obj\Debug\net8.0\DP_Strategy.AssemblyInfo.cs
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\obj\Debug\net8.0\DP_Strategy.csproj.CoreCompileInputs.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\obj\Debug\net8.0\DP_Strategy.sourcelink.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\bin\Debug\net8.0\DP_Strategy.exe
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\bin\Debug\net8.0\DP_Strategy.deps.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\bin\Debug\net8.0\DP_Strategy.runtimeconfig.json
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\bin\Debug\net8.0\DP_Strategy.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\bin\Debug\net8.0\DP_Strategy.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\obj\Debug\net8.0\DP_Strategy.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\obj\Debug\net8.0\refint\DP_Strategy.dll
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\obj\Debug\net8.0\DP_Strategy.pdb
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\obj\Debug\net8.0\DP_Strategy.genruntimeconfig.cache
+D:\courses\Udemy - Design Patterns in C# and .NET 2022-3\Design Patterns Codes\DP_Strategy\obj\Debug\net8.0\ref\DP_Strategy.dll

@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_strategy\\invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|solutionrelative:invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_strategy\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|solutionrelative:invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_strategy\\invoiceline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|solutionrelative:invoiceline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_strategy\\customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|solutionrelative:customerdatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_strategy\\customercategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|solutionrelative:customercategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_strategy\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_strategy\\discountstrategies\\silvercustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|solutionrelative:discountstrategies\\silvercustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_strategy\\discountstrategies\\goldcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|solutionrelative:discountstrategies\\goldcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_strategy\\discountstrategies\\icustomerstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|solutionrelative:discountstrategies\\icustomerstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|d:\\courses\\udemy - design patterns in c# and .net 2022-3\\design patterns codes\\dp_strategy\\discountstrategies\\newcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03753AE9-67E8-4AA1-A685-4067A8F61687}|DP_Strategy.csproj|solutionrelative:discountstrategies\\newcustomerdiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 664,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 64,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerCategories.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\CustomerCategories.cs",
+              "RelativeDocumentMoniker": "CustomerCategories.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\CustomerCategories.cs",
+              "RelativeToolTip": "CustomerCategories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:35:46.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceManager.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\InvoiceManager.cs",
+              "RelativeDocumentMoniker": "InvoiceManager.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\InvoiceManager.cs",
+              "RelativeToolTip": "InvoiceManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:25:54.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomerStrategy.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\DiscountStrategies\\ICustomerStrategy.cs",
+              "RelativeDocumentMoniker": "DiscountStrategies\\ICustomerStrategy.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\DiscountStrategies\\ICustomerStrategy.cs",
+              "RelativeToolTip": "DiscountStrategies\\ICustomerStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:09:09.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GoldCustomerDiscountStrategy.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\DiscountStrategies\\GoldCustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "DiscountStrategies\\GoldCustomerDiscountStrategy.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\DiscountStrategies\\GoldCustomerDiscountStrategy.cs",
+              "RelativeToolTip": "DiscountStrategies\\GoldCustomerDiscountStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:08:06.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SilverCustomerDiscountStrategy.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\DiscountStrategies\\SilverCustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "DiscountStrategies\\SilverCustomerDiscountStrategy.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\DiscountStrategies\\SilverCustomerDiscountStrategy.cs",
+              "RelativeToolTip": "DiscountStrategies\\SilverCustomerDiscountStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:08:06.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NewCustomerDiscountStrategy.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\DiscountStrategies\\NewCustomerDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "DiscountStrategies\\NewCustomerDiscountStrategy.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\DiscountStrategies\\NewCustomerDiscountStrategy.cs",
+              "RelativeToolTip": "DiscountStrategies\\NewCustomerDiscountStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:08:05.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceLine.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\InvoiceLine.cs",
+              "RelativeDocumentMoniker": "InvoiceLine.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\InvoiceLine.cs",
+              "RelativeToolTip": "InvoiceLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:38:23.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\Invoice.cs",
+              "RelativeDocumentMoniker": "Invoice.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\Invoice.cs",
+              "RelativeToolTip": "Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:36:11.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerDataReader.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\CustomerDataReader.cs",
+              "RelativeDocumentMoniker": "CustomerDataReader.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\CustomerDataReader.cs",
+              "RelativeToolTip": "CustomerDataReader.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:34:11.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:33:02.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\courses\\Udemy - Design Patterns in C# and .NET 2022-3\\Design Patterns Codes\\DP_Strategy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:32:17.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
